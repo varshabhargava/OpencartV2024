@@ -1,0 +1,4 @@
+2024-05-08 19:17:19 INFO  TC_02LoginTest:17 - **** Starting TC_002_LoginTest  ****
+2024-05-08 19:17:19 INFO  TC_02LoginTest:24 - clicked on myaccount link on the home page..
+2024-05-08 19:17:20 INFO  TC_02LoginTest:26 - clicked on login link under myaccount..
+2024-05-08 19:17:20 INFO  TC_02LoginTest:30 - Entering valid email and password..
